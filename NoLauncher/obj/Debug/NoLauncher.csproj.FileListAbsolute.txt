@@ -1,0 +1,14 @@
+D:\Projekty\NoLauncher\NoLauncher\obj\Debug\NoLauncher.csprojResolveAssemblyReference.cache
+D:\Projekty\NoLauncher\NoLauncher\obj\Debug\NoLauncher.Properties.Resources.resources
+D:\Projekty\NoLauncher\NoLauncher\obj\Debug\NoLauncher.csproj.GenerateResource.Cache
+D:\Projekty\NoLauncher\NoLauncher\bin\Debug\MS2.exe
+D:\Projekty\NoLauncher\NoLauncher\bin\Debug\MS2.pdb
+D:\Projekty\NoLauncher\NoLauncher\obj\Debug\MS2.exe
+D:\Projekty\NoLauncher\NoLauncher\obj\Debug\MS2.pdb
+D:\Projekty\MarineSharpshooter2_NoLauncher\NoLauncher\obj\Debug\MS2.exe
+D:\Projekty\MarineSharpshooter2_NoLauncher\NoLauncher\obj\Debug\MS2.pdb
+D:\Projekty\MarineSharpshooter2_NoLauncher\NoLauncher\bin\Debug\MS2.exe
+D:\Projekty\MarineSharpshooter2_NoLauncher\NoLauncher\bin\Debug\MS2.pdb
+D:\Projekty\MarineSharpshooter2_NoLauncher\NoLauncher\obj\Debug\NoLauncher.csprojResolveAssemblyReference.cache
+D:\Projekty\MarineSharpshooter2_NoLauncher\NoLauncher\obj\Debug\NoLauncher.Properties.Resources.resources
+D:\Projekty\MarineSharpshooter2_NoLauncher\NoLauncher\obj\Debug\NoLauncher.csproj.GenerateResource.Cache
