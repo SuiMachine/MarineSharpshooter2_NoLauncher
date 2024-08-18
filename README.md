@@ -23,4 +23,4 @@ Make sure to add an exception in your antivirus (if needed) and check it as trus
 
 Credits
 -------
-  * [SuicideMachine](http://twitch.tv/suicidemachine)
+  * [SuicideMachine](http://twitch.tv/suimachine)
